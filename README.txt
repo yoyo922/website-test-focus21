@@ -1,9 +1,7 @@
 # website-focus21
 website test for focus21
 
-
-
-Hi these webapges are what I managed to learn from 2-3 days of researching html/css/javaScript. Feedback would be appreciated.
+Hi these webpages are what I managed to learn from 2-3 days of researching html/css/javaScript. Feedback would be appreciated.
 
 Author Yong(Peter) Zhou
 2016-04-28
@@ -17,7 +15,6 @@ NOTE:
   
 - some icons/buttons takes you to google.com
   
-
 - Bootstrap framwork used but dont completly understand it 
 
 Things still need to be done
