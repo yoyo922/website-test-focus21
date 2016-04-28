@@ -1,0 +1,75 @@
+div.container {
+	text-align: center;
+	position: relative;
+    top: 60px;
+}
+div.logo{
+	margin-bottom: 52.5px;
+}
+div.fotter{
+	width:100%;
+    position:fixed;
+    bottom:0px;
+    text-align:center;
+    z-index:9999;
+}
+form{
+	margin-bottom: 67px;
+}
+form img{
+	width: 100px;
+  	height: 100px;
+	margin-bottom: 30px;
+}
+.email{
+  	font-size: 20px;
+	margin-bottom: 25px;
+}
+.info{
+  	font-weight: bold;
+  	font-size: 20px;
+}
+form input {
+	width: 300px;
+	height: 55px;
+	border-radius: 100px;
+	border: solid 1px #00479f;
+	border: solid 1px var(--darkish-blue);
+	margin: 0 auto 20px auto;
+}
+form button{
+	width: 300px;
+	height: 55px;
+	color: white;
+	font-weight: bold;
+	border-radius: 100px;
+	border: solid 1px #00479f;
+	border: solid 1px var(--darkish-blue);
+	margin: 0 auto 20px auto; border-radius: 100px;
+	background-color: #00479f;
+	background-color: var(--darkish-blue);
+}
+.help{
+	color: #00479f;
+  	color: var(--darkish-blue);
+}
+.userName{
+	background: url(web2Assets/group-2.png)
+	no-repeat scroll 10px 15px;
+	padding-left:45px;
+}
+.password{
+	background: url(web2Assets/group.png)
+	no-repeat scroll 10px 15px;
+	padding-left:45px;
+}
+div.login{
+	font-size: 1em;
+	outline: none;
+	padding: 5px;
+	display:block;
+	position: relative;
+	margin:10px 0;
+	outline: medium none;
+}
+
