@@ -17,7 +17,7 @@ NOTE:
   
 - Bootstrap framwork used but dont completly understand it 
 
-Things still need to be done
+Things still need to be done:
   
 - using BEM methods more.
   
